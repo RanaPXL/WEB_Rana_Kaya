@@ -1,0 +1,36 @@
+* {
+    font-family: Sofia Pro, sans-serif;
+}
+.nav {
+    text-decoration: none;
+    color: black;
+}
+.body {
+    background-color: #EDEAE2;
+}
+.headline {
+    margin-top: 15%;
+    margin-bottom: 25%;
+}
+.d-flex-center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.thick-border {
+    box-shadow: 0 3px 10px rgba(0, 0, 0, 0.2);
+    width: 1.5em;
+    height: 1.5em;
+}
+
+.about {
+    margin-bottom: 20%;
+
+}
+.card {
+    border-radius: 30px;
+    overflow: hidden;
+}
+.card-title .card-text {
+    text-decoration: none;
+}
